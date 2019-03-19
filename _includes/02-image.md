@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Tux]"https://openclipart.org/image/200px/svg_to_png/169173/1332942083.png)
